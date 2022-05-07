@@ -1,0 +1,63 @@
+.container {
+    border: 5px solid rgb(213, 51, 156);
+    margin-top: 20px;
+}
+
+.row {
+    border: 5px solid rgb(137, 39, 39);
+}
+
+.col {
+    border: 2px solid rgb(77, 128, 223);
+}
+
+.pink {
+    background-color: pink;
+}
+
+.blue {
+    background-color: rgb(122, 168, 221);
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.green {
+    background-color: greenyellow;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.violet {
+    background-color: violet;
+}
+
+span {
+    color: rgb(17, 16, 17);
+    background-color: rgb(204, 199, 199);
+}
+
+.line {
+    width: 100px;
+    border: 1px solid red;
+}
+
+.nav {
+    background-color: cadetblue;
+}
+
+.nav-link {
+    color: beige;
+}
+
+.nav-link:hover {
+    background-color: chocolate;
+    color: beige;
+}
+
+.navbar {
+    background-color: rgb(221, 224, 216);
+}
